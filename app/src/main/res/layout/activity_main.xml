@@ -19,17 +19,19 @@
         style="@style/NameStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/layout_margin"
+        android:layout_marginEnd="@dimen/layout_margin"
         android:ems="10"
         android:hint="@string/what_is_your_nickname"
         android:inputType="textPersonName"
-        android:paddingStart="@dimen/padding"
-        android:paddingEnd="@dimen/padding"
         android:textAlignment="center" />
 
     <Button
         android:id="@+id/done_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/layout_margin"
+        android:layout_marginEnd="@dimen/layout_margin"
         android:text="@string/done_button_text" />
 
     <TextView
