@@ -2,4 +2,9 @@
     <string name="app_name">About Me App</string>
     <string name="name">Dionne Condor-Farrell</string>
     <string name="yellow_star">Yellow star</string>
+    <string name="bio">I am a Senior Developer, Tech Coach, Mentor, Public Speaker and Tech Event Organiser, who is passionate about Diversity in Tech.  I specialise Android app development, and Java and open source technologies, and have been working in the technology industry for over 15 years.
+
+More recently I have transitioned to Mobile App Development where I works as part of a team that designs and develops Android and iOS mobile apps that help to deliver better services for the public.  I am also exploring the benefits of cloud computing, and becoming a fan of Microsoft Azure (yes even as a Java Developer :-)).
+
+I am passionate about improving diversity in tech, and especially encouraging more Women and BAME people to consider a career in tech and retaining them, in an industry commonly viewed as very male dominated.  I help women in established non tech careers with a desire to transition into hands on tech roles through mentoring and coaching.  I also help employers to build relationships with underrepresented communities to attract diverse tech talent.</string>
 </resources>
